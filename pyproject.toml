@@ -6,7 +6,7 @@ authors = []
 
 [tool.poetry.dependencies]
 python = "^3.8"
-mkdocs = "^1.0.0"
+mkdocs = "^1.4.1"
 mkdocs-material = "^7.0.0"
 mkdocs-redirects = "^1.0.3"
 
